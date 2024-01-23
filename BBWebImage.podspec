@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
 
-  s.author       = { 'Kaibo Lu' => 'lukaibolkb@gmail.com' }
+  s.author       = { 'cashleeboy' => 'lihongzhang@mapxus.com' }
 
   s.platform     = :ios, '8.0'
 
-  s.source       = { :git => 'https://github.com/Silence-GitHub/BBWebImage.git', :tag => s.version }
+  s.source       = { :git => 'https://github.com/cashleeboy/BBWebImage.git', :tag => s.version }
 
   s.requires_arc = true
 
