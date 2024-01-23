@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 
   s.author       = { 'cashleeboy' => 'lihongzhang@mapxus.com' }
 
-  s.platform     = :ios, '11.0'
+  s.platform     = :ios, '8.0'
 
   s.source       = { :git => 'https://github.com/cashleeboy/BBWebImage.git', :tag => s.version.to_s }
 
