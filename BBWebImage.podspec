@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
                    High performance.
                    DESC
 
-  s.homepage     = 'https://github.com/Silence-GitHub/BBWebImage'
+  s.homepage     = 'https://github.com/lihongzhang/BBWebImage'
 
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
 
